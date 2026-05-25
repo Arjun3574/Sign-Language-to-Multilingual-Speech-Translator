@@ -1,0 +1,14 @@
+# To create the virtual environment:
+python -m venv .venv
+
+# To active it:
+.venv\Scripts\activate
+
+# To install the Dependencies/Requirements:
+pip install -r requirements.txt
+
+# To run the code and access the website:
+python app.py
+
+# Hand signs for alphabets and numbers are in:
+"assests > isl > alphabets, numbers"

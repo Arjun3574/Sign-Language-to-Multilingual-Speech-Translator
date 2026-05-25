@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+python-multipart
+tensorflow
+mediapipe
+transformers
+torch
+gTTS
+opencv-python

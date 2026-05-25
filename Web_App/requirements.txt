@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+python-multipart
+scipy
+opencv-python>=4.8.0
+numpy>=1.24.0
+mediapipe>=0.10.30
+transformers
+torch
+sentencepiece
+gTTS
